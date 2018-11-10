@@ -1,1 +1,3 @@
 Une fois que j'aurai les bases nécessaire en html, javascript, et php, je m'attaquerai à réaliser un site web utilisant les connaissances acquises lors des formations.
+
+Un autre de mes projets était de modifier ce fichier projets afin de compléter tous les objectifs de cette activité. Maintenant que c'est réalisé, je suis hyper content!
